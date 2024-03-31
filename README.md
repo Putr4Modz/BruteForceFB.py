@@ -1,2 +1,2 @@
-# BruteForceFB.py
+# BruteForceFB
 CINA
